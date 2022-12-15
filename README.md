@@ -1,6 +1,6 @@
 <p align="center">
     <a target="_blank" href="https://www.phisoft.my/">
-        <img alt="phisoft" title="phisoft-logo" src="https://custom-icon-badges.demolab.com/badge/phisoft-red.svg?style=for-the-badge&logo=phisoft-logo"/>
+        <img alt="phisoft" title="phisoft-logo" src="https://custom-icon-badges.demolab.com/badge/phisoft-blue.svg?style=for-the-badge&logo=phisoft-logo"/>
     </a>
 </p>
 <p align="center">
