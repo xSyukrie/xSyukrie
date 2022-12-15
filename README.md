@@ -1,5 +1,5 @@
 <p align="center">
-    <a target="_blank" href="https://www.phisoft.my/">
+    <a target="_blank" href="https://github.com/phisoft">
         <img alt="phisoft" title="phisoft-logo" src="https://custom-icon-badges.demolab.com/badge/phisoft-800000.svg?style=for-the-badge&logo=phisoft-logo"/>
     </a>
 </p>
