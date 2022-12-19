@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/phisoft" target="_blank">
-        <img alt="phisoft" title="phisoft-logo" src="https://custom-icon-badges.demolab.com/badge/phisoft-800000.svg?style=for-the-badge&logo=phisoft-logo"/>
+        <img alt="phisoft" title="phisoft" src="https://custom-icon-badges.demolab.com/badge/phisoft-800000.svg?style=for-the-badge&logo=phisoft-logo"/>
     </a>
 </p>
 <p align="center">
