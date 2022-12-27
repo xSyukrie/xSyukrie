@@ -38,4 +38,4 @@ Hello! My name is Syukrie and I am a software developer with a passion for creat
 
 ## Contact
 
-- Email: syukrie@outlook.sg
+- Email: syukrie.suffian@outlook.com
