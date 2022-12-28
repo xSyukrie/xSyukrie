@@ -34,7 +34,7 @@ Hello! My name is Syukrie and I am a software developer with a passion for creat
 ## Experience
 
 - Intern at Sabah Electricity Sdn. Bhd
-- Junior Software Engineer at Phi Software Sdn Bhd (Present)
+- Junior Software Engineer at Phi Software Sdn Bhd
 
 ## Contact
 
